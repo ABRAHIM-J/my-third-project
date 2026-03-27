@@ -1,0 +1,364 @@
+[
+  {
+    "id": 1,
+    "image": "/public/demo-app (1).webp",
+    "title": "FitLife Tracker",
+    "companyName": "Healthify Inc.",
+    "description": "Track your daily workouts, calories, and health stats in one place.",
+    "size": 45,
+    "reviews": 12000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/public/demo-app (2).webp",
+    "title": "TuneStream",
+    "companyName": "SoundWave Ltd.",
+    "description": "Stream your favorite songs and discover new music daily.",
+    "size": 60,
+    "reviews": 25000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/public/demo-app (3).webp",
+    "title": "QuickBite",
+    "companyName": "FoodExpress",
+    "description": "Order food from your favorite restaurants in minutes.",
+    "size": 55,
+    "reviews": 18000,
+    "ratingAvg": 4.3,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/public/demo-app (4).webp",
+    "title": "MoneyMate",
+    "companyName": "FinTech Solutions",
+    "description": "Manage your expenses and track your savings efficiently.",
+    "size": 40,
+    "reviews": 9000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4250 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/public/demo-app (5).webp",
+    "title": "LearnHub",
+    "companyName": "EduTech Corp",
+    "description": "Access thousands of courses and improve your skills.",
+    "size": 70,
+    "reviews": 22000,
+    "ratingAvg": 4.6,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 12350 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/public/demo-app (6).webp",
+    "title": "TravelGo",
+    "companyName": "WanderTech",
+    "description": "Plan your trips, book hotels, and explore destinations.",
+    "size": 65,
+    "reviews": 15000,
+    "ratingAvg": 4.2,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/public/images.11.png",
+    "title": "ChatConnect",
+    "companyName": "SocialNet",
+    "description": "Stay connected with friends and family instantly.",
+    "size": 50,
+    "reviews": 30000,
+    "ratingAvg": 4.8,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 18800 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/public/images.12.png",
+    "title": "SnapEdit Pro",
+    "companyName": "PixelSoft",
+    "description": "Edit your photos with professional tools and filters.",
+    "size": 80,
+    "reviews": 27000,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  
+  {
+    "id": 9,
+    "image": "/public/images.13.png",
+    "title": "WeatherNow",
+    "companyName": "ClimateTech",
+    "description": "Get real-time weather updates and forecasts worldwide.",
+    "size": 30,
+    "reviews": 8000,
+    "ratingAvg": 4.3,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/public/images.14.png",
+    "title": "DailyNews",
+    "companyName": "MediaHub",
+    "description": "Stay updated with breaking news and trending stories.",
+    "size": 35,
+    "reviews": 14000,
+    "ratingAvg": 4.2,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "/public/images.14.png",
+    "title": "ShopEasy",
+    "companyName": "EcomWorld",
+    "description": "Shop your favorite products online with ease.",
+    "size": 75,
+    "reviews": 32000,
+    "ratingAvg": 4.6,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 17600 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "/public/images.6.png",
+    "title": "GameZone",
+    "companyName": "PlayStudio",
+    "description": "Play exciting games and challenge your friends.",
+    "size": 120,
+    "reviews": 45000,
+    "ratingAvg": 4.7,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 27700 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "/public/images.7.png",
+    "title": "BankSecure",
+    "companyName": "SafeBank Ltd.",
+    "description": "Secure mobile banking with instant transactions.",
+    "size": 50,
+    "reviews": 21000,
+    "ratingAvg": 4.5,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "/public/images.7.png",
+    "title": "StreamFlix",
+    "companyName": "VisionMedia",
+    "description": "Watch movies and series anytime, anywhere.",
+    "size": 95,
+    "reviews": 50000,
+    "ratingAvg": 4.8,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 28400 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "/public/images.8.png",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "description": "Read and download thousands of eBooks.",
+    "size": 40,
+    "reviews": 11000,
+    "ratingAvg": 4.4,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "/public/images.9.png",
+    "title": "PlanIt",
+    "companyName": "TaskMaster",
+    "description": "Organize your tasks and schedule efficiently.",
+    "size": 28,
+    "reviews": 9000,
+    "ratingAvg": 4.3,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3450 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "/public/demo-app (1).webp",
+    "title": "GymPro",
+    "companyName": "FitCorp",
+    "description": "Your personal fitness trainer in your pocket.",
+    "size": 55,
+    "reviews": 17000,
+    "ratingAvg": 4.5,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 7950 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "/public/demo-app (2).webp",
+    "title": "MapWay",
+    "companyName": "GeoTech",
+    "description": "Navigate easily with real-time directions.",
+    "size": 65,
+    "reviews": 26000,
+    "ratingAvg": 4.6,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "/public/demo-app (3).webp",
+    "title": "NoteQuick",
+    "companyName": "WriteSoft",
+    "description": "Take notes quickly and stay organized.",
+    "size": 20,
+    "reviews": 7000,
+    "ratingAvg": 4.2,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2430 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "/public/demo-app (4).webp",
+    "title": "SafeGuard",
+    "companyName": "SecureTech",
+    "description": "Protect your data with advanced security tools.",
+    "size": 48,
+    "reviews": 13000,
+    "ratingAvg": 4.4,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  }
+
+]
