@@ -20,7 +20,7 @@ const App = ({SingleApp}) => {
 
     return (
       <Link to={`/appDetails/${id}`}>
-        <div className="card bg-base-100 w-96 shadow-sm">
+       <div className="card bg-base-100 w-full shadow-sm">
   <figure>
     <img
       src={image}

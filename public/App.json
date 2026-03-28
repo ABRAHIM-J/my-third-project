@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/public/demo-app (1).webp",
+    "image": "/assets/demo-app (1).webp",
     "title": "FitLife Tracker",
     "companyName": "Healthify Inc.",
     "description": "Track your daily workouts, calories, and health stats in one place.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "/public/demo-app (2).webp",
+    "image": "/assets/demo-app (2).webp",
     "title": "TuneStream",
     "companyName": "SoundWave Ltd.",
     "description": "Stream your favorite songs and discover new music daily.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "/public/demo-app (3).webp",
+    "image": "/assets/demo-app (3).webp",
     "title": "QuickBite",
     "companyName": "FoodExpress",
     "description": "Order food from your favorite restaurants in minutes.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "/public/demo-app (4).webp",
+    "image": "/assets/demo-app (4).webp",
     "title": "MoneyMate",
     "companyName": "FinTech Solutions",
     "description": "Manage your expenses and track your savings efficiently.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "/public/demo-app (5).webp",
+    "image": "/assets/demo-app (5).webp",
     "title": "LearnHub",
     "companyName": "EduTech Corp",
     "description": "Access thousands of courses and improve your skills.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "/public/demo-app (6).webp",
+    "image": "/assets/demo-app (6).webp",
     "title": "TravelGo",
     "companyName": "WanderTech",
     "description": "Plan your trips, book hotels, and explore destinations.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "/public/images.11.png",
+    "image": "/assets/images.11.png",
     "title": "ChatConnect",
     "companyName": "SocialNet",
     "description": "Stay connected with friends and family instantly.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "/public/images.12.png",
+    "image": "/assets/images.12.png",
     "title": "SnapEdit Pro",
     "companyName": "PixelSoft",
     "description": "Edit your photos with professional tools and filters.",
@@ -146,7 +146,7 @@
   
   {
     "id": 9,
-    "image": "/public/images.13.png",
+    "image": "/assets/images.13.png",
     "title": "WeatherNow",
     "companyName": "ClimateTech",
     "description": "Get real-time weather updates and forecasts worldwide.",
@@ -164,7 +164,7 @@
   },
   {
     "id": 10,
-    "image": "/public/images.14.png",
+    "image": "/assets/images.14.png",
     "title": "DailyNews",
     "companyName": "MediaHub",
     "description": "Stay updated with breaking news and trending stories.",
@@ -182,7 +182,7 @@
   },
   {
     "id": 11,
-    "image": "/public/images.14.png",
+    "image": "/assets/images.6.png",
     "title": "ShopEasy",
     "companyName": "EcomWorld",
     "description": "Shop your favorite products online with ease.",
@@ -200,7 +200,7 @@
   },
   {
     "id": 12,
-    "image": "/public/images.6.png",
+    "image": "/assets/images.8.png",
     "title": "GameZone",
     "companyName": "PlayStudio",
     "description": "Play exciting games and challenge your friends.",
@@ -218,7 +218,7 @@
   },
   {
     "id": 13,
-    "image": "/public/images.7.png",
+    "image": "/assets/images.9.png",
     "title": "BankSecure",
     "companyName": "SafeBank Ltd.",
     "description": "Secure mobile banking with instant transactions.",
@@ -236,7 +236,7 @@
   },
   {
     "id": 14,
-    "image": "/public/images.7.png",
+    "image": "/assets/demo-app (1).webp",
     "title": "StreamFlix",
     "companyName": "VisionMedia",
     "description": "Watch movies and series anytime, anywhere.",
@@ -254,7 +254,7 @@
   },
   {
     "id": 15,
-    "image": "/public/images.8.png",
+    "image": "/assets/demo-app (2).webp",
     "title": "BookNest",
     "companyName": "Readify",
     "description": "Read and download thousands of eBooks.",
@@ -272,7 +272,7 @@
   },
   {
     "id": 16,
-    "image": "/public/images.9.png",
+    "image": "/assets/demo-app (4).webp",
     "title": "PlanIt",
     "companyName": "TaskMaster",
     "description": "Organize your tasks and schedule efficiently.",
@@ -290,7 +290,7 @@
   },
   {
     "id": 17,
-    "image": "/public/demo-app (1).webp",
+    "image": "/assets/demo-app (5).webp",
     "title": "GymPro",
     "companyName": "FitCorp",
     "description": "Your personal fitness trainer in your pocket.",
@@ -308,7 +308,7 @@
   },
   {
     "id": 18,
-    "image": "/public/demo-app (2).webp",
+    "image": "/assets/images.11.png",
     "title": "MapWay",
     "companyName": "GeoTech",
     "description": "Navigate easily with real-time directions.",
@@ -326,7 +326,7 @@
   },
   {
     "id": 19,
-    "image": "/public/demo-app (3).webp",
+    "image": "/assets/images.13.png",
     "title": "NoteQuick",
     "companyName": "WriteSoft",
     "description": "Take notes quickly and stay organized.",
@@ -344,7 +344,7 @@
   },
   {
     "id": 20,
-    "image": "/public/demo-app (4).webp",
+    "image": "/assets/demo-app (3).webp",
     "title": "SafeGuard",
     "companyName": "SecureTech",
     "description": "Protect your data with advanced security tools.",
